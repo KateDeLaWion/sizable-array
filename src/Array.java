@@ -21,7 +21,7 @@ public class Array {
             for (int i= 0; i<count; i++){
                 newItems[i] = items[i];
             }
-            //            No need to expand old array items because once it copies a bigger array,
+//            No need to expand old array items because once it copies a bigger array,
 //            it will expand itself to accommodate a bigger array.
 //            items = new int[count * 2];
 //            items = newItems;
